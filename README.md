@@ -37,20 +37,22 @@ Nodemon
 ```
 
 ## Screenshots
+
 ![Screenshot 2022-01-03 22 54 16](https://user-images.githubusercontent.com/86656634/147985250-a63eed1d-7e0d-46f9-a915-866ff9769b1c.png)
 
 ## ViedoLinks
-User ,Thoughts 
+
+User ,Thoughts
 https://watch.screencastify.com/v/EKn3l3QE2rSEP3a4gZVB
-
-User Routes
-https://watch.screencastify.com/v/celSlVEG6Jnpaw0jqFWK
-
-Thoughts Routes
-https://watch.screencastify.com/v/6EMkeKZrGxyN5yvmDwDV
 
 Reaction Routes
 https://watch.screencastify.com/v/BSOyCxOCofy30HxpTL8W
 
 Friend Routes
 https://watch.screencastify.com/v/CBkWYfYIcD8TdLCjatWi
+
+User Routes
+https://watch.screencastify.com/v/celSlVEG6Jnpaw0jqFWK
+
+Thoughts Routes
+https://watch.screencastify.com/v/6EMkeKZrGxyN5yvmDwDV

@@ -39,3 +39,17 @@ Nodemon
 ## Screenshots
 
 ## ViedoLinks
+User ,Thoughts 
+https://watch.screencastify.com/v/EKn3l3QE2rSEP3a4gZVB
+
+User Routes
+https://watch.screencastify.com/v/celSlVEG6Jnpaw0jqFWK
+
+Thoughts Routes
+https://watch.screencastify.com/v/6EMkeKZrGxyN5yvmDwDV
+
+Reaction Routes
+https://watch.screencastify.com/v/BSOyCxOCofy30HxpTL8W
+
+Friend Routes
+https://watch.screencastify.com/v/CBkWYfYIcD8TdLCjatWi
